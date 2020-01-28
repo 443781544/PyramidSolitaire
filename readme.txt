@@ -1,4 +1,3 @@
-Changes made:
-Deal does not destroy deck.
-View's render method does not add a new line at the end.
-Java docs comment is more descriptive.
+A textual version of the card game PyramidSolitaire program in Java.
+Utilized MVC design pattern.
+Example game can be played here: https://cardgames.io/pyramidsolitaire/
